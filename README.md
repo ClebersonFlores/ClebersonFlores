@@ -1,4 +1,4 @@
-               ## Hi there! I'm Cleberson Flores, Computer Science student
+               ## Hi there! I'm Cleberson Flores.
 <div align="center">
   <a href="https://github.com/ClebersonFlores">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClebersonFlores&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
